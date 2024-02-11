@@ -1,0 +1,14 @@
+/home/usuario/arraysc#/bin/Debug/net8.0/arraysc#
+/home/usuario/arraysc#/bin/Debug/net8.0/arraysc#.deps.json
+/home/usuario/arraysc#/bin/Debug/net8.0/arraysc#.runtimeconfig.json
+/home/usuario/arraysc#/bin/Debug/net8.0/arraysc#.dll
+/home/usuario/arraysc#/bin/Debug/net8.0/arraysc#.pdb
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.AssemblyInfoInputs.cache
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.AssemblyInfo.cs
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.csproj.CoreCompileInputs.cache
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.dll
+/home/usuario/arraysc#/obj/Debug/net8.0/refint/arraysc#.dll
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.pdb
+/home/usuario/arraysc#/obj/Debug/net8.0/arraysc#.genruntimeconfig.cache
+/home/usuario/arraysc#/obj/Debug/net8.0/ref/arraysc#.dll
